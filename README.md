@@ -8,7 +8,7 @@
 
 Patrol tests for the TokoMart Flutter mobile app.
 
-  <img src="../../docs/images/toko-mart-patrol-read-me.png" alt="TokoMart-Patrol" width="800" />
+  <img src="tokomart_patrol_2.png" alt="TokoMart-Patrol" width="800" />
 
 </div>
 
